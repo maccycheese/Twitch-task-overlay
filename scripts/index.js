@@ -4,5 +4,5 @@ const commands = {
     'ryanpython': `@RyanPython helped make this bot possible. Follow him on twitch.tv/RyanPython <3`
 }
 
-ComfyJS.Init("YOUR TWITCH ACCOUNT", "oauth:ACCESS_TOKEN_HERE")
+ComfyJS.Init("maccycheese_bot", "oauth:tk2offhu329gvdfwuuroi61acm8w7c", 'maccycheese123')
 //ComfyJS.Init("YOUR BOT ACCOUNT", "oauth:ACCESS_TOKEN_HERE", 'YOUR CHANNEL') // use this if you're using a different account from your broadcasting account
