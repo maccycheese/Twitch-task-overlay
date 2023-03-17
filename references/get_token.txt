@@ -1,5 +1,5 @@
 https://id.twitch.tv/oauth2/authorize
-    ?client_id=qmcifavfhcbn99r0mmkmx2zamjt9nd
+    ?client_id=zskc77ry1tsxa3er1kc4zlixq2pnjx
     &redirect_uri=http://localhost
     &response_type=token
     &scope=channel:moderate+chat:edit+chat:read+channel:manage:broadcast+user:edit:broadcast+channel:read:redemptions+user:read:email
